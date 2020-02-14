@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo:400,700&display=swap&subset=arabic');
+
+* {
+  font-family: 'Cairo', sans-serif;
+  &.sec_address {
+    color: var(--primary);
+  }
+}
