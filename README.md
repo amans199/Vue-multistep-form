@@ -6,20 +6,26 @@ The form can be found on the router "/organization-info"...
 
 ## How to Start using the Project 
 1- Download the Project and extract the files .. 
+
 2- Run the Command :
 ```
 yarn install
 ```
 to get the all used modules ..
 Easy Simple Fast
+
 3- Run it on the browser
 ```
 yarn serve
 ```
+
 ### Project contents
 Home {router : "/"} : the default Vue project's home page
+
 req-product {router : "/req-product"} : The products page
+
 organization-info {router : "/organization-info"} : the multi-step form
+
 
 ### Compiles and minifies for production
 ```
